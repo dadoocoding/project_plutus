@@ -1,0 +1,10 @@
+[
+  {
+    "id": "TEST-ASIN-1",
+    "title": "Ridiculous But Awesome Gadget",
+    "price": 29.99,
+    "rating": 4.7,
+    "category": "gadgets",
+    "image": "https://example.com/image.jpg"
+  }
+]

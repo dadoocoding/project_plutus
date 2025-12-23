@@ -1,0 +1,15 @@
+project:
+  name: project-plutus
+  environment: local
+  log_level: INFO
+
+paths:
+  raw_data: backend/data/raw
+  processed_data: backend/data/processed
+  site_output: frontend
+
+pipeline:
+  research: true
+  ingestion: true
+  normalization: true
+  generation: true

@@ -1,0 +1,290 @@
+[
+  {
+    "niche": "gadgets for men",
+    "base_category": "gadgets"
+  },
+  {
+    "niche": "gadgets for women",
+    "base_category": "gadgets"
+  },
+  {
+    "niche": "gadgets for engineers",
+    "base_category": "gadgets"
+  },
+  {
+    "niche": "gadgets for gamers",
+    "base_category": "gadgets"
+  },
+  {
+    "niche": "gadgets under $50",
+    "base_category": "gadgets"
+  },
+  {
+    "niche": "gadgets under $25",
+    "base_category": "gadgets"
+  },
+  {
+    "niche": "gadgets unique",
+    "base_category": "gadgets"
+  },
+  {
+    "niche": "gadgets cool",
+    "base_category": "gadgets"
+  },
+  {
+    "niche": "gadgets weird",
+    "base_category": "gadgets"
+  },
+  {
+    "niche": "home decor for men",
+    "base_category": "home decor"
+  },
+  {
+    "niche": "home decor for women",
+    "base_category": "home decor"
+  },
+  {
+    "niche": "home decor for engineers",
+    "base_category": "home decor"
+  },
+  {
+    "niche": "home decor for gamers",
+    "base_category": "home decor"
+  },
+  {
+    "niche": "home decor under $50",
+    "base_category": "home decor"
+  },
+  {
+    "niche": "home decor under $25",
+    "base_category": "home decor"
+  },
+  {
+    "niche": "home decor unique",
+    "base_category": "home decor"
+  },
+  {
+    "niche": "home decor cool",
+    "base_category": "home decor"
+  },
+  {
+    "niche": "home decor weird",
+    "base_category": "home decor"
+  },
+  {
+    "niche": "office accessories for men",
+    "base_category": "office accessories"
+  },
+  {
+    "niche": "office accessories for women",
+    "base_category": "office accessories"
+  },
+  {
+    "niche": "office accessories for engineers",
+    "base_category": "office accessories"
+  },
+  {
+    "niche": "office accessories for gamers",
+    "base_category": "office accessories"
+  },
+  {
+    "niche": "office accessories under $50",
+    "base_category": "office accessories"
+  },
+  {
+    "niche": "office accessories under $25",
+    "base_category": "office accessories"
+  },
+  {
+    "niche": "office accessories unique",
+    "base_category": "office accessories"
+  },
+  {
+    "niche": "office accessories cool",
+    "base_category": "office accessories"
+  },
+  {
+    "niche": "office accessories weird",
+    "base_category": "office accessories"
+  },
+  {
+    "niche": "kitchen tools for men",
+    "base_category": "kitchen tools"
+  },
+  {
+    "niche": "kitchen tools for women",
+    "base_category": "kitchen tools"
+  },
+  {
+    "niche": "kitchen tools for engineers",
+    "base_category": "kitchen tools"
+  },
+  {
+    "niche": "kitchen tools for gamers",
+    "base_category": "kitchen tools"
+  },
+  {
+    "niche": "kitchen tools under $50",
+    "base_category": "kitchen tools"
+  },
+  {
+    "niche": "kitchen tools under $25",
+    "base_category": "kitchen tools"
+  },
+  {
+    "niche": "kitchen tools unique",
+    "base_category": "kitchen tools"
+  },
+  {
+    "niche": "kitchen tools cool",
+    "base_category": "kitchen tools"
+  },
+  {
+    "niche": "kitchen tools weird",
+    "base_category": "kitchen tools"
+  },
+  {
+    "niche": "outdoor gear for men",
+    "base_category": "outdoor gear"
+  },
+  {
+    "niche": "outdoor gear for women",
+    "base_category": "outdoor gear"
+  },
+  {
+    "niche": "outdoor gear for engineers",
+    "base_category": "outdoor gear"
+  },
+  {
+    "niche": "outdoor gear for gamers",
+    "base_category": "outdoor gear"
+  },
+  {
+    "niche": "outdoor gear under $50",
+    "base_category": "outdoor gear"
+  },
+  {
+    "niche": "outdoor gear under $25",
+    "base_category": "outdoor gear"
+  },
+  {
+    "niche": "outdoor gear unique",
+    "base_category": "outdoor gear"
+  },
+  {
+    "niche": "outdoor gear cool",
+    "base_category": "outdoor gear"
+  },
+  {
+    "niche": "outdoor gear weird",
+    "base_category": "outdoor gear"
+  },
+  {
+    "niche": "fitness accessories for men",
+    "base_category": "fitness accessories"
+  },
+  {
+    "niche": "fitness accessories for women",
+    "base_category": "fitness accessories"
+  },
+  {
+    "niche": "fitness accessories for engineers",
+    "base_category": "fitness accessories"
+  },
+  {
+    "niche": "fitness accessories for gamers",
+    "base_category": "fitness accessories"
+  },
+  {
+    "niche": "fitness accessories under $50",
+    "base_category": "fitness accessories"
+  },
+  {
+    "niche": "fitness accessories under $25",
+    "base_category": "fitness accessories"
+  },
+  {
+    "niche": "fitness accessories unique",
+    "base_category": "fitness accessories"
+  },
+  {
+    "niche": "fitness accessories cool",
+    "base_category": "fitness accessories"
+  },
+  {
+    "niche": "fitness accessories weird",
+    "base_category": "fitness accessories"
+  },
+  {
+    "niche": "tech accessories for men",
+    "base_category": "tech accessories"
+  },
+  {
+    "niche": "tech accessories for women",
+    "base_category": "tech accessories"
+  },
+  {
+    "niche": "tech accessories for engineers",
+    "base_category": "tech accessories"
+  },
+  {
+    "niche": "tech accessories for gamers",
+    "base_category": "tech accessories"
+  },
+  {
+    "niche": "tech accessories under $50",
+    "base_category": "tech accessories"
+  },
+  {
+    "niche": "tech accessories under $25",
+    "base_category": "tech accessories"
+  },
+  {
+    "niche": "tech accessories unique",
+    "base_category": "tech accessories"
+  },
+  {
+    "niche": "tech accessories cool",
+    "base_category": "tech accessories"
+  },
+  {
+    "niche": "tech accessories weird",
+    "base_category": "tech accessories"
+  },
+  {
+    "niche": "novelty gifts for men",
+    "base_category": "novelty gifts"
+  },
+  {
+    "niche": "novelty gifts for women",
+    "base_category": "novelty gifts"
+  },
+  {
+    "niche": "novelty gifts for engineers",
+    "base_category": "novelty gifts"
+  },
+  {
+    "niche": "novelty gifts for gamers",
+    "base_category": "novelty gifts"
+  },
+  {
+    "niche": "novelty gifts under $50",
+    "base_category": "novelty gifts"
+  },
+  {
+    "niche": "novelty gifts under $25",
+    "base_category": "novelty gifts"
+  },
+  {
+    "niche": "novelty gifts unique",
+    "base_category": "novelty gifts"
+  },
+  {
+    "niche": "novelty gifts cool",
+    "base_category": "novelty gifts"
+  },
+  {
+    "niche": "novelty gifts weird",
+    "base_category": "novelty gifts"
+  }
+]

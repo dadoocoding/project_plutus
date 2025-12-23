@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+}

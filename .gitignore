@@ -1,0 +1,55 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# =====================
+# Environment variables / secrets
+# =====================
+.env
+.env.*
+*.env
+
+# =====================
+# OS / Editor noise
+# =====================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =====================
+# Logs & temp files
+# =====================
+*.log
+*.tmp
+
+# =====================
+# Build / cache
+# =====================
+.pytest_cache/
+.mypy_cache/
+
+# =====================
+# Output data (GENERATED)
+# =====================
+outputs/data/
+outputs/**/*.json
+
+# =====================
+# Site build artifacts (if later added)
+# =====================
+site/dist/
+
+# =====================
+# Node (if ever added later)
+# =====================
+node_modules/

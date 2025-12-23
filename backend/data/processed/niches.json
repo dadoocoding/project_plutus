@@ -1,0 +1,14 @@
+[
+  {
+    "niche": "gadgets for engineers",
+    "score": 82,
+    "avg_price": 34.99,
+    "competition": "medium"
+  },
+  {
+    "niche": "unique desk accessories",
+    "score": 76,
+    "avg_price": 24.5,
+    "competition": "low"
+  }
+]
