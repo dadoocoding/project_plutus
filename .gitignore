@@ -43,7 +43,7 @@ Thumbs.db
 # =====================
 outputs/data/
 outputs/**/*.json
-
+ 
 # =====================
 # Site build artifacts (if later added)
 # =====================
