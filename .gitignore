@@ -47,7 +47,7 @@ outputs/**/*.json
 # =====================
 # Site build artifacts (if later added)
 # =====================
-site/dist/
+docs/dist/
 
 # =====================
 # Node (if ever added later)

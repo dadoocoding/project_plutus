@@ -3,7 +3,7 @@ from pathlib import Path
 
 
 def run_page_generation(config):
-    logging.info("🧱 Generating site pages (stub)")
+    logging.info("🧱 Generating docs pages (stub)")
 
     output_dir = Path(config["paths"]["site_output"])
     index_file = output_dir / "index.html"
